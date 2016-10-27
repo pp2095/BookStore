@@ -1,0 +1,138 @@
+body.bg {
+    height: 1000px;
+    background:linear-gradient(rgb(188,191,185),white);
+}
+body.bg1{
+    height: 1200px;
+    background:linear-gradient(rgb(188,191,185),white);
+}
+div.name
+{
+text-indent:2px;
+font-size:55px;
+font-family: YoureInvited;
+font-weight:bold;
+text-align: center;
+color:rgb(53,0,106);
+}
+div.name2
+{
+padding-bottom:1px;
+text-indent:5px;
+font-size:25px;
+font-family:FangSong;
+font-weight:bold;
+text-align: center-left;
+color:rgb(53,0,106);
+}
+
+div.butt
+{
+border: 2px solid #a1a1a1;
+padding: 10px 15px;
+font-family:Comic Sans MS;
+	box-shadow: 5px 5px 2px #888888;
+    background:WHITE;
+    width: 120px;
+    border-radius: 25px;
+}
+div.butt2
+{
+border: 2px solid #a1a1a1;
+padding: 10px 15px;
+font-family:Comic Sans MS;
+font-size:20px;
+box-shadow: 5px 5px 2px #888888;
+background:white;
+width: 160px;
+border-radius: 25px;
+}
+div.butt1
+{
+border: 2px solid #a1a1a1;
+padding: 10px 15px;
+font-family:FoglihtenNo07;
+box-shadow: 5px 5px 2px rgb(240,240,240);
+background:white;
+width: 160px;
+border-radius: 25px;
+}
+div.name3
+{
+padding-top: 30px;
+padding-bottom:10px;
+font-size:35px;
+font-family:FangSong;
+font-weight:bold;
+color:rgb(40,2,72);
+}
+div.name4
+{
+font-size:24px;
+font-family:FoglihtenNo07;
+font-weight:bold;
+color:rgb(75,20,137);
+}
+div.name5
+{
+font-size:40px;
+font-family:FangSong;
+font-weight:bold;
+color:rgb(53,0,106);
+}
+div.name6
+{
+padding-top: 30px;
+padding-bottom:10px;
+font-size:35px;
+font-family:FangSong;
+font-weight:bold;
+color:rgb(40,2,72);
+text-align: right;
+}
+div.name7
+{
+padding-top: 30px;
+padding-bottom:10px;
+font-size:35px;
+font-family:FangSong;
+font-weight:bold;
+color:rgb(40,2,72);
+text-align: left;
+}
+div.name8
+{
+font-family:FangSong;
+font-size:25px;
+}
+div.name9
+{
+font-family:FangSong;
+font-size:25px;
+text-align:left;
+padding-left:10px;
+}
+div.name10
+{
+padding-bottom:1px;
+text-indent:5px;
+font-size:35px;
+font-family:FangSong;
+font-weight:bold;
+text-align: center-left;
+color:rgb(53,0,106);
+}
+.class1
+{
+font-family:FangSong;
+font-size:25px;
+}
+.box
+{
+    width: 500px;
+    height:500px;
+    background:black;
+    color:white;
+    padding: 25px;
+    
+}
